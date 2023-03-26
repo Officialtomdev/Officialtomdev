@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 some stuff about me:
 
 
+
+<img src="https://komarev.com/ghpvc/?username=Officialtomdeve&color=brightgreen">
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Officialtomdev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
