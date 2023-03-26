@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Officialtomdev&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=officialtomdev&" alt="officialtomdev" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=officialtomdev&" alt="officialtomdev" /></p>
+
+<img src="https://komarev.com/ghpvc/?username=Officialtomdeve&color=brightgreen">
 
 
 
