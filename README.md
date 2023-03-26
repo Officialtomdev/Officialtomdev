@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+discord profile:
+
+<a href="https://discord.com/channels/@me/694240076279840849"> <img src="https://discord.c99.nl/widget/theme-2/694240076279840849.png" alt="contact me">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialtomdev&label=Profile%20views&color=895bae&style=plastic" alt="officialtomdev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=officialtomdev" alt="officialtomdev" /></a> </p>
