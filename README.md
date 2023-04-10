@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=37&pause=1000&width=435&lines=tomW%234440;web+developer;discord+bot+developer)](https://git.io/typing-svg)
 
 
+[<img src="https://discordapp.com/api/guilds/1094998172373373029/widget.png?style=banner2" alt="Discord Banner 1"/>](https://discord.gg/xAmCyqXeZF)
+
+
 
 <!--
 **Officialtomdev/Officialtomdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
